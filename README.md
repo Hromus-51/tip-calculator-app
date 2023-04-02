@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- [Live Site](https://hromus-51.github.io/faq-accordion-card/)
+- [Live Site](https://hromus-51.github.io/tip-calculator-app/)
 
 ### Built with
 
